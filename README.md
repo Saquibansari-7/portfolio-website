@@ -15,7 +15,7 @@ I thrive in **team environments** and bring energy, focus, and creativity to eve
 ---
 
 ## 🖼 Portfolio Preview
-![Portfolio Screenshot](/public/port-screenshort.png) <!-- Replace with your own screenshot -->
+![Portfolio Screenshot](/public/port-screenshort.png) 
 
 ---
 
@@ -61,7 +61,7 @@ src/
 git clone https://github.com/saquinansari-7/portfolio-website.git
 
 # Move into folder
-cd your-repo-name
+cd your-portfolio-website
 
 # Install dependencies
 npm install
@@ -76,7 +76,7 @@ npm start
 
 * **Email:** [saquib6111@gmail.com](mailto:saquib6111@gmail.com)
 * **GitHub:** [Your GitHub Profile](https://github.com/saquibansari-7)
-* **Instagram:** [@saquibansariiii](https://instagram.com/saqprof)
+* **Instagram:** [@saqprof](https://instagram.com/saqprof)
 
 ---
 
