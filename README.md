@@ -15,7 +15,7 @@ I thrive in **team environments** and bring energy, focus, and creativity to eve
 ---
 
 ## 🖼 Portfolio Preview
-![Portfolio Screenshot](port-screenshort.png) <!-- Replace with your own screenshot -->
+![Portfolio Screenshot](/public/port-screenshort.png) <!-- Replace with your own screenshot -->
 
 ---
 
