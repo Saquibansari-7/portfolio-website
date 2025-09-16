@@ -1,7 +1,7 @@
 
 # Muhammad Saquib – AI Engineering Portfolio 🚀
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue)](https://github.com/Saquibansari-7/portfolio-website)
 [![Made with React](https://img.shields.io/badge/React-18-blue?logo=react)](https://react.dev/)
 [![Framer Motion](https://img.shields.io/badge/Animated-Framer--Motion-ff69b4)](https://www.framer.com/motion/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
