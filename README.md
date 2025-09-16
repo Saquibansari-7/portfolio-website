@@ -42,6 +42,7 @@ I thrive in **team environments** and bring energy, focus, and creativity to eve
 
 
 src/
+
 ├── App.js      # Main React file
 
 ├── App.css     # Styles
