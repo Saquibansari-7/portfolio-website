@@ -61,7 +61,7 @@ src/
 git clone https://github.com/saquinansari-7/portfolio-website.git
 
 # Move into folder
-cd your-portfolio-website
+cd portfolio-website
 
 # Install dependencies
 npm install
@@ -75,7 +75,7 @@ npm start
 ## 📬 Contact
 
 * **Email:** [saquib6111@gmail.com](mailto:saquib6111@gmail.com)
-* **GitHub:** [Your GitHub Profile](https://github.com/saquibansari-7)
+* **GitHub:** (https://github.com/saquibansari-7)
 * **Instagram:** [@saqprof](https://instagram.com/saqprof)
 
 ---
