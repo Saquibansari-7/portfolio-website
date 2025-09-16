@@ -461,8 +461,8 @@ function App() {
         <div className="footer-content">
           <div className="social-icons">
             <a href="mailto:saquib6111@gmail.com" className="social-icon"><Mail size={24}/></a>
-            <a href="https://github.com/shaaq4" className="social-icon"><Github size={24}/></a>
-            <a href="https://instagram.com/saquibansariiii" className="social-icon"><Instagram size={24}/></a>
+            <a href="https://github.com/saquibansari-7" className="social-icon"><Github size={24}/></a>
+            <a href="https://instagram.com/saqprof" className="social-icon"><Instagram size={24}/></a>
           </div>
           <div className="footer-copyright text-xs text-gray-400 mt-2 text-center">
             © 2025 MUHAMMAD SAQUIB. All rights reserved.
